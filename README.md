@@ -1,3 +1,4 @@
+![singlescreen](https://user-images.githubusercontent.com/25160664/110238558-8d4af100-7f42-11eb-8e40-946b20793645.png)
 # myNetflix
 Projekt szkoleniowy w ramach inicjatywy devLeaders. Zespół stworzy klona Netflix z użyciem React, Ract Native, NestJS
 

@@ -1,4 +1,5 @@
 ![singlescreen](https://user-images.githubusercontent.com/25160664/110238558-8d4af100-7f42-11eb-8e40-946b20793645.png)
+
 # myNetflix
 Projekt szkoleniowy w ramach inicjatywy devLeaders. Zespół stworzy klona Netflix z użyciem React, Ract Native, NestJS
 
@@ -57,3 +58,8 @@ Mobile
 ```shell
 react-native run-android
 ```
+
+![123392251_1289031908099392_6808629649232709375_n](https://user-images.githubusercontent.com/25160664/110238815-fed76f00-7f43-11eb-88dd-00ebdc05fd2a.jpg)
+![123443660_775690699674841_797764833403254295_n](https://user-images.githubusercontent.com/25160664/110238824-04cd5000-7f44-11eb-8ad4-0ce45c45dbe7.jpg)
+![123451299_1429158413953292_8855398351427122078_n](https://user-images.githubusercontent.com/25160664/110238827-072faa00-7f44-11eb-823a-d3446658bb90.jpg)
+
